@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "https://aproportionalresponse.com/static/css/main.e83d502c.css",
-    "main.js": "https://aproportionalresponse.com/static/js/main.da0b80f0.js",
-    "static/js/787.483897ca.chunk.js": "https://aproportionalresponse.com/static/js/787.483897ca.chunk.js",
-    "worker.js": "https://aproportionalresponse.com/c0520026ad2bd092e034.worker.js",
-    "index.html": "https://aproportionalresponse.com/index.html",
-    "main.e83d502c.css.map": "https://aproportionalresponse.com/static/css/main.e83d502c.css.map",
-    "main.da0b80f0.js.map": "https://aproportionalresponse.com/static/js/main.da0b80f0.js.map",
-    "787.483897ca.chunk.js.map": "https://aproportionalresponse.com/static/js/787.483897ca.chunk.js.map"
+    "main.css": "https://seppo0010.github.io/aproportionalresponse.com/static/css/main.e83d502c.css",
+    "main.js": "https://seppo0010.github.io/aproportionalresponse.com/static/js/main.5b5167c2.js",
+    "static/js/787.483897ca.chunk.js": "https://seppo0010.github.io/aproportionalresponse.com/static/js/787.483897ca.chunk.js",
+    "worker.js": "https://seppo0010.github.io/aproportionalresponse.com/013b35522bedac7346f0.worker.js",
+    "index.html": "https://seppo0010.github.io/aproportionalresponse.com/index.html",
+    "main.e83d502c.css.map": "https://seppo0010.github.io/aproportionalresponse.com/static/css/main.e83d502c.css.map",
+    "main.5b5167c2.js.map": "https://seppo0010.github.io/aproportionalresponse.com/static/js/main.5b5167c2.js.map",
+    "787.483897ca.chunk.js.map": "https://seppo0010.github.io/aproportionalresponse.com/static/js/787.483897ca.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e83d502c.css",
-    "static/js/main.da0b80f0.js"
+    "static/js/main.5b5167c2.js"
   ]
 }
